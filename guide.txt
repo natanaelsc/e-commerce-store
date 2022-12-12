@@ -1,0 +1,16 @@
+Instalando o Stripe do lado do Frontend
+npm i @stripe/stripe-js@1.35.0
+
+Instalando CORS, Express e Stripe do lado do Backend
+npm i cors@2.8.5 express@4.18.1 stripe@10.7.0
+
+Rodando o servidor Backend
+node server.js
+
+Dados pagamento
+seu email ou qualquer outro
+número do cartão 4242 4242 4242 4242
+data de validade 02/50
+código de segurança 123
+nome Fulano de Tal
+pais qualquer
