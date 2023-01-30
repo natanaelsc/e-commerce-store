@@ -16,7 +16,7 @@ Projeto frontend Angular de loja virtual com Typescript, [Material UI](https://m
     ng serve
     ```
 
-3. Acesse `http://localhost:4200`.
+3. Acesse <http://localhost:4200>.
 
 
 
